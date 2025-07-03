@@ -1,5 +1,3 @@
-Here's your full analysis converted to **Markdown**, suitable for Reddit posts (like on r/Georgist), GitHub, or a blog that supports Markdown formatting.
-
 ---
 
 # NYC Land Value Tax (LVT) Analysis
@@ -109,5 +107,3 @@ This analysis was created with help from ChatGPT.
 Join the discussion at [r/Georgist](https://www.reddit.com/r/georgist/) or suggest improvements.
 
 ---
-
-Would you like a downloadable `.md` file or a live demo version (e.g. hosted on GitHub Pages)?
